@@ -14,3 +14,6 @@
 ## Papers
 https://dl.acm.org/doi/10.1145/3123266.3123444
 https://www.hindawi.com/journals/cin/2020/8875426/
+
+## Resources 
+https://www.bitbrain.com/blog/ai-eeg-data-processing
