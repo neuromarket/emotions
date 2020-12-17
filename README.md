@@ -13,6 +13,11 @@
 
 * **Classroom learning**
   1. [Confused student EEG brainwave data](https://www.kaggle.com/wanghaohan/confused-eeg) : EEG data from 10 students watching MOOC videos
+  
+* **MUSE headband**
+1. https://www.kaggle.com/birdy654/eeg-mental-state-v2
+2. https://www.kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions
+
 ## Papers
 https://dl.acm.org/doi/10.1145/3123266.3123444
 https://www.hindawi.com/journals/cin/2020/8875426/
